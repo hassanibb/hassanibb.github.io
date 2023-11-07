@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&family=Redressed&display=swap');
+
+.cc-nv {
+    background-color: rgba(300, 500, 0, 0.55);
+    font-family: 'Merriweather', serif;
+    box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.54);
+}
